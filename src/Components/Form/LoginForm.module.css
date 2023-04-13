@@ -1,0 +1,38 @@
+.form-control{
+    margin-bottom: 20px;
+
+}
+.form-control label{
+    margin-left:0 ;
+}
+
+
+.form-control input{
+    display: block;
+    
+}
+.form-control input{
+
+    padding: 5px;
+    border-radius: 10px;
+    width: 80%;
+
+}
+.isValid{
+    color: red;
+}
+.form{
+    width: 60%;
+    margin: 2px auto;
+    background: skyblue;
+
+}
+.form button{
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
+
